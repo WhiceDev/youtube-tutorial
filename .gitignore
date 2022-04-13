@@ -10,3 +10,6 @@ server-readme.txt
 *.amx
 *.log
 scriptfiles
+npcmodes
+filterscripts
+include
